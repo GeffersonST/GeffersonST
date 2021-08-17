@@ -1,4 +1,4 @@
-# Hi, I'm Gefferson Severo from Brazil, I'm a psychologist but actually I deep into study Fullstack Development. 
+# Hi, I'm Gefferson Severo from Brazil, I'm a psychologist but actually I deep into study FrontEnd Development. 
 
 I am currently taking courses in the FrontEnd area.
   ## Stats
