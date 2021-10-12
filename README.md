@@ -12,6 +12,11 @@
   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
 </p>
 
+
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=geffersonst&theme=radical)](https://github.com/geffersonst/)
+
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
