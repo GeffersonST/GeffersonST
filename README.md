@@ -16,6 +16,7 @@
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=geffersonst&theme=radical)](https://github.com/geffersonst/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=geffersonst&hide=html&layout=compact&theme=radical)](https://github.com/geffersonst/)
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
