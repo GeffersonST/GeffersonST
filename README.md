@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Trabalhar com Front end developer é muito gratificante. Aprimorar a interface para proporcionar uma experiência única ao usuário é uma dessas frentes. Desafios constantes existem, e é com eles que o desenvolvimento front-end trabalha. Tenho formação acadêmica como Psicólogo e sempre me interessei pela tecnologia. O trabalho em equipe aliado com o senso de comunidade transformam a programação em um rede de colaboração.
 </p>
 
 <p align="left">
