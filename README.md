@@ -1,7 +1,28 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Trabalhar com Front end developer é muito gratificante. Aprimorar a interface para proporcionar uma experiência única ao usuário é uma dessas frentes. Desafios constantes existem, e é com eles que o desenvolvimento front-end trabalha. Tenho formação acadêmica como Psicólogo e sempre me interessei pela tecnologia. O trabalho em equipe aliado com o senso de comunidade transformam a programação em um rede de colaboração.
+  Hello, I'm Gefferson Severo, a professional passionate about technology and web development. With a background in Psychology and experience as a Front-end programmer, I am able to combine technical skills with interpersonal skills to deliver effective and high-quality solutions. My goal is always to create intuitive and aesthetically pleasing interfaces to improve the user experience. Following the evolution and innovation of the market is a passion and source of constant learning for me. Let's talk about technology and web development!
+
+Technical Abilities:
+• ReactJS;
+• Vue;
+• JavaScript;
+• HTML5 | CSS3;
+• Bootstrap;
+• Git;
+• AWS
+• Flutter
+
+Tools:
+• Visual Studio Code;
+• Github;
+
+Personal Qualities:
+• Fast learner;
+• Organized;
+• Good to give and receive feedbacks;
+• Customer experience;
+• Good in troubleshooting;
 </p>
 
 <p align="left">
