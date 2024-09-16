@@ -5,7 +5,7 @@
 
 Technical Abilities:
 • ReactJS;
-• Vue;
+• Java;
 • JavaScript;
 • HTML5 | CSS3;
 • Bootstrap;
